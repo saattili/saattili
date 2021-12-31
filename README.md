@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...movies and code
 - 🌱 I’m currently learning ...jython and pipeline orchestartion
 - 💞️ I’m looking to collaborate on ...devops automations
-- 📫 reachme thru saattili@amd.com
+- 📫 reachme thru attsmadhav@gmail.com
 
 
 <!---

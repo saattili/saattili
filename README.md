@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saattili
 - 👀 I’m interested in ...movies and code
-- 🌱 I’m currently learning ...jython and pipeline orchestartion
+- 🌱 I’m currently learning ...GitOps
 - 💞️ I’m looking to collaborate on ...devops automations
 - 📫 reachme @ reachme@madhav-attili.com
 - :walking: knowme here -> https://madhav-attili.com  
